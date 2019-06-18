@@ -32,7 +32,7 @@ namespace Firefight
             Console.WriteLine("INSERTION d'une ligne avec 2 paramètres de la table Person \nTemps d'execution : ");
 
             //Test d'insertions de données
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
                 
@@ -64,7 +64,7 @@ namespace Firefight
             //Test de lecture de données
             Console.WriteLine("LECTURE d'une ligne de la table Person \nTemps d'execution : ");
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
 
@@ -93,7 +93,7 @@ namespace Firefight
             moyenne = 0;
             //Test de suppression de données
             Console.WriteLine("SUPPRESSION d'une ligne de la table Person \nTemps d'execution : ");
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
 

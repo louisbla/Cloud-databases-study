@@ -20,7 +20,7 @@ namespace Systemes_repartis
 
             //Test d'insertions de données
             Console.WriteLine("INSERTION d'une ligne avec 2 paramètres de la table Person \nTemps d'execution : ");
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
                 
@@ -50,7 +50,7 @@ namespace Systemes_repartis
             moyenne = 0;
             //Test de lecture de données
             Console.WriteLine("LECTURE d'une ligne de la table Person \nTemps d'execution : ");
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
                 
@@ -79,7 +79,7 @@ namespace Systemes_repartis
             moyenne = 0;
             //Test de suppression de données
             Console.WriteLine("SUPPRESSION d'une ligne de la table Person \nTemps d'execution : ");
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
                 watch.Start();
 
