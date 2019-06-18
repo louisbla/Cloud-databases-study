@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back4app", "Firefight\Back4app.csproj", "{DE832E44-4F8B-4161-8F23-2E584CA5CF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure", "Azure\Azure.csproj", "{46294823-846D-4CB7-B94F-EAD6192B496A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firebase", "Systemes-repartis\Firebase.csproj", "{C06693E3-C5FD-4916-9BBB-446AB9464B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE832E44-4F8B-4161-8F23-2E584CA5CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE832E44-4F8B-4161-8F23-2E584CA5CF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE832E44-4F8B-4161-8F23-2E584CA5CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE832E44-4F8B-4161-8F23-2E584CA5CF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46294823-846D-4CB7-B94F-EAD6192B496A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46294823-846D-4CB7-B94F-EAD6192B496A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46294823-846D-4CB7-B94F-EAD6192B496A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46294823-846D-4CB7-B94F-EAD6192B496A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06693E3-C5FD-4916-9BBB-446AB9464B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06693E3-C5FD-4916-9BBB-446AB9464B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06693E3-C5FD-4916-9BBB-446AB9464B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06693E3-C5FD-4916-9BBB-446AB9464B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7226B9-E1C9-47A9-8DC8-FA705D3E307A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\bin\Debug\Azure.exe.config
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\bin\Debug\Azure.exe
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\bin\Debug\Azure.pdb
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\bin\Debug\System.Data.SqlClient.dll
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\obj\Debug\Azure.csproj.CoreCompileInputs.cache
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\obj\Debug\Azure.csproj.CopyComplete
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\obj\Debug\Azure.exe
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\obj\Debug\Azure.pdb
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Azure\obj\Debug\Azure.csprojAssemblyReference.cache

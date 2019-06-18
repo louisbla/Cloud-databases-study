@@ -1,0 +1,22 @@
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Firefight.exe.config
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Firefight.exe
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Firefight.pdb
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Parse.dll
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Parse.NetFx45.dll
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Parse.xml
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\bin\Debug\Parse.NetFx45.xml
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\obj\Debug\Back4app.csproj.CoreCompileInputs.cache
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\obj\Debug\Back4app.csproj.CopyComplete
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\obj\Debug\Firefight.exe
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Firefight\Firefight\obj\Debug\Firefight.pdb
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Firefight.exe.config
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Firefight.exe
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Firefight.pdb
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Parse.dll
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Parse.NetFx45.dll
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Parse.xml
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\bin\Debug\Parse.NetFx45.xml
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\obj\Debug\Back4app.csproj.CoreCompileInputs.cache
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\obj\Debug\Back4app.csproj.CopyComplete
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\obj\Debug\Firefight.exe
+G:\PROGRAMMATION\Workspace Visual Studio\EtudeBasesDeDonnees\Firefight\Firefight\obj\Debug\Firefight.pdb

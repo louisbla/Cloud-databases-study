@@ -1,0 +1,22 @@
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.deps.json
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.runtimeconfig.json
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.runtimeconfig.dev.json
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.dll
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.pdb
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.csprojAssemblyReference.cache
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.csproj.CoreCompileInputs.cache
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.AssemblyInfoInputs.cache
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.AssemblyInfo.cs
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.dll
+G:\PROGRAMMATION\Workspace Visual Studio\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.pdb
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.deps.json
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.runtimeconfig.json
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.runtimeconfig.dev.json
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.dll
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\bin\Debug\netcoreapp2.1\Systemes-repartis.pdb
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.csprojAssemblyReference.cache
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.csproj.CoreCompileInputs.cache
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.AssemblyInfoInputs.cache
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.AssemblyInfo.cs
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.dll
+D:\Documents\UQAC\Trimestre3\8INF843-Systemes_Repartis\Projet\Systemes-repartis\Systemes-repartis\Systemes-repartis\obj\Debug\netcoreapp2.1\Systemes-repartis.pdb
